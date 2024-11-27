@@ -16,7 +16,7 @@ icon: android
 
 ## **使用教程**
 
-1、安装好apk后，从本站【仪表盘→一键订阅】中【导入到Clash Meta】
+1.安装好apk后，从本站【仪表盘→一键订阅】中【导入到Clash Meta】
 
 <figure><img src="../.gitbook/assets/image (34).png" alt="" width="321"><figcaption></figcaption></figure>
 
