@@ -1,11 +1,11 @@
 ---
-description: Official Info Notice
 icon: badge-check
+description: Official Info Notice
 ---
 
 # 官方信息公示
 
-**请注意分辨我们的官方信息，谨防上当受骗！我们所有的官方信息都将在此公布**
+<mark style="color:red;">**请注意分辨我们的官方信息，谨防上当受骗！我们所有的官方信息都将在此公布**</mark>
 
 ## 一、**官方网址**
 
