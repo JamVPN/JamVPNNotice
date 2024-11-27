@@ -28,6 +28,8 @@ layout:
 
 ## **二、使用教程**
 
+[<mark style="color:blue;">**全系统客户端导航点此查看**</mark>](haotouse/client.md)
+
 **Andorid客户端**
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>V2rayNG客户端</strong></td><td><a href="haotouse/v2rayng.md">使用教程</a></td><td>（<mark style="color:orange;">推荐</mark>）</td></tr><tr><td><strong>Clash Meta For Android</strong></td><td><a href="haotouse/clashmetaforandroid.md">使用教程</a></td><td></td></tr><tr><td><strong>sing-box</strong></td><td><a href="haotouse/singbox.md">使用教程</a></td><td></td></tr></tbody></table>
