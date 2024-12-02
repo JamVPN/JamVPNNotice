@@ -16,7 +16,7 @@
 * [V2rayNG教程](haotouse/v2rayng.md)
 * [ClashMetaForAndroid教程](haotouse/clashmetaforandroid.md)
 * [sing-box教程-编辑中](haotouse/singbox.md)
-* [Shadowrocket教程-编辑中](haotouse/shadowrocket.md)
+* [Shadowrocket教程](haotouse/shadowrocket.md)
 * [QuantumultX教程-编辑中](haotouse/quantumultx.md)
 * [Stash教程-编辑中](haotouse/stash.md)
 * [Sing-Box VT教程-编辑中](haotouse/singboxvt.md)
