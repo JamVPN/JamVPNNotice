@@ -1,6 +1,6 @@
 ---
-description: Client DownLoad
 icon: cloud-arrow-down
+description: Client DownLoad
 ---
 
 # 客户端下载
@@ -27,7 +27,7 @@ icon: cloud-arrow-down
 
 #### 三、Windows客户端： <a href="#id-10" id="id-10"></a>
 
-1、V2rayN：[7.0.9版本下载](https://github.com/2dust/v2rayN/releases/download/7.0.9/v2rayN-windows-64-With-Core.zip)\
+1、V2rayN：[7.2.3版本官方下载](https://github.com/2dust/v2rayN/releases/download/7.2.3/v2rayN-windows-64-With-Core.zip)\
 可能需要的.net8.0.404运行环境库： [微软官网下载地址](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)
 
 2、Clash汉化版：[0.20.39版本三方下载](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.39_OPT-1/Clash.for.Windows-0.20.39-Opt.1-win32-arm64.7z)（作者已删库）
