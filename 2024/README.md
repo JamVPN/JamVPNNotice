@@ -36,7 +36,7 @@ layout:
 
 **IOS客户端**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>QuantumultX</strong></td><td><a href="haotouse/quantumultx.md">使用教程</a></td><td>（售价$7.99）</td></tr><tr><td><strong>Shadowrocket</strong></td><td><a href="haotouse/shadowrocket.md">使用教程</a></td><td>（<mark style="color:orange;">推荐</mark> | 售价$2.99）</td></tr><tr><td><strong>Stash</strong></td><td><a href="haotouse/stash.md">使用教程</a></td><td>（售价$3.99）</td></tr><tr><td><p><strong>Sing-Box VT</strong></p><p><a href="haotouse/singboxvt.md">使用教程</a></p></td><td>（免费）</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Shadowrocket</strong></td><td><a href="haotouse/shadowrocket.md">使用教程</a></td><td>（<mark style="color:orange;">推荐</mark> | 售价$2.99）</td></tr><tr><td><p><strong>Sing-Box VT</strong></p><p><a href="haotouse/singboxvt.md">使用教程</a></p></td><td>（免费）</td><td></td></tr><tr><td><strong>QuantumultX</strong></td><td><a href="haotouse/quantumultx.md">使用教程</a></td><td>（售价$7.99）</td></tr><tr><td><strong>Stash</strong></td><td><a href="haotouse/stash.md">使用教程</a></td><td>（售价$3.99）</td></tr></tbody></table>
 
 #### **Windows客户端**
 
