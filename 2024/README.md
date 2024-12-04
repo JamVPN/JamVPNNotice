@@ -44,7 +44,7 @@ layout:
 
 #### **Mac客户端**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="haotouse/clashx.md"><strong>ClashX.Meta</strong></a></td><td>使用教程</td><td>（<mark style="color:orange;">推荐</mark>）</td></tr><tr><td><strong>V2rayU客户端</strong></td><td><a href="haotouse/v2rayu.md">使用教程</a></td><td></td></tr><tr><td><strong>Sing-Box Mac</strong></td><td><a href="haotouse/singboxmac.md">使用教程</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="haotouse/clashx.md"><strong>ClashX.Meta</strong></a></td><td>使用教程</td><td>（<mark style="color:orange;">推荐</mark>）</td></tr><tr><td><strong>V2rayU客户端</strong></td><td><a href="haotouse/v2rayu.md">使用教程</a></td><td></td></tr></tbody></table>
 
 #### **路由器客户端**
 
