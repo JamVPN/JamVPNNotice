@@ -7,7 +7,7 @@ description: V2rayN
 
 **界面预览**
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **下载**
 
@@ -21,7 +21,7 @@ a. 软件目录
 
 下载完成后，找到合适的目录，推荐安装在非系统盘，解压压缩包，解压后的目录如下图所示。
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 找到软件主程序 `v2rayN.exe` 双击鼠标左键即可开始使用，程序启动后会最小化到任务右小角的托盘，鼠标双击蓝色的 `V` 字小图标，即可打开软件的主界面。
 
@@ -29,17 +29,17 @@ b. 托盘图标状态说明
 
 不同状态下软件的图标颜色是不一样的，参考下表图标颜色说明。
 
-<table><thead><tr><th width="90">图标</th><th width="171">软件状态</th><th>说明</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="original"></td><td>清除系统代理</td><td>每次启动/重启服务的时候，强制把windows系统(ie)的代理清除掉。</td></tr><tr><td><img src="../.gitbook/assets/image (6) (1) (1).png" alt="" data-size="original"></td><td>自动配置系统代理</td><td>每次启动/重启服务的时候，强制设定windows系统(ie)的代理。</td></tr><tr><td><img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="original"></td><td>不改变系统代理</td><td>每次启动/重启服务的时候，什么都不做。作用就是保留其他软件设定的代理。</td></tr></tbody></table>
+<table><thead><tr><th width="90">图标</th><th width="171">软件状态</th><th>说明</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" data-size="original"></td><td>清除系统代理</td><td>每次启动/重启服务的时候，强制把windows系统(ie)的代理清除掉。</td></tr><tr><td><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt="" data-size="original"></td><td>自动配置系统代理</td><td>每次启动/重启服务的时候，强制设定windows系统(ie)的代理。</td></tr><tr><td><img src="../.gitbook/assets/image (7) (1) (1).png" alt="" data-size="original"></td><td>不改变系统代理</td><td>每次启动/重启服务的时候，什么都不做。作用就是保留其他软件设定的代理。</td></tr></tbody></table>
 
 ## **使用教程**
 
 1.首先找到文件夹中的「v2rayN.exe」文件，双击运行
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **注意**：此软件打开后如果找不到主画面，可以在电脑右下角任务栏中点击 “V” 图标以显示主页面
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.从本站【仪表盘→一键订阅】中【复制订阅地址】
 

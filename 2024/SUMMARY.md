@@ -19,7 +19,7 @@
 * [Shadowrocket教程](haotouse/shadowrocket.md)
 * [QuantumultX教程-编辑中](haotouse/quantumultx.md)
 * [Stash教程-编辑中](haotouse/stash.md)
-* [Sing-Box VT教程-编辑中](haotouse/singboxvt.md)
+* [Sing-Box VT教程](haotouse/singboxvt.md)
 * [V2rayN教程](haotouse/v2rayn.md)
 * [Clash For Windows教程-编辑中](haotouse/clashforwindows.md)
 * [Clash Verge Rev教程-编辑中](haotouse/clashvergerev.md)

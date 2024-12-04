@@ -6,7 +6,7 @@ icon: android
 
 **界面预览**
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="432"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="432"><figcaption></figcaption></figure>
 
 ## **下载**
 
@@ -20,32 +20,32 @@ icon: android
 
 安装完后，打开软件进入主界面，即配置文件界面，如下图所示。
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="229"><figcaption><p>v2rayNG 主界面</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="229"><figcaption><p>v2rayNG 主界面</p></figcaption></figure>
 
 1.安装好后，从本站【仪表盘→一键订阅】中点击【复制订阅地址】复制订阅地址。
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="321"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="270"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="270"><figcaption></figcaption></figure>
 
 2.从本站复制订阅地址后，就可以开始添加订阅了，点击软件主界面右上角的➕ 号按钮即可出现添加配置文件选项，如下图 V2rayNG 主界面所示，根据不同的节点添加不同的节点服务器配置文件。
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3.这里我们选择从剪切板导入，即可在界面中看到所有的节点。（根据网络情况可能需要等待一会，才会加载出所有节点）
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="432"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="432"><figcaption></figcaption></figure>
 
 4.此时选择一个节点（下图高亮位置为可用节点），并点击右下加的按钮连接（首次连接会需要授权，这里点击确定即可）
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="321"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="288"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="288"><figcaption></figcaption></figure>
 
 
 
 5.连接成功后如下图所示
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="288"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="288"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (49).png" alt="" width="288"><figcaption></figcaption></figure>
