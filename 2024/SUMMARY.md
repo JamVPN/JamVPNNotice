@@ -5,6 +5,7 @@
 ## 用户须知 <a href="#usernotice" id="usernotice"></a>
 
 * [服务条款](usernotice/tos.md)
+* [隐私政策](usernotice/privacy.md)
 * [流媒体解锁](usernotice/streaming.md)
 * [流量计费规则](usernotice/traffictrules.md)
 * [官方信息公示](usernotice/officialinfonotice.md)
