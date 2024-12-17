@@ -24,13 +24,13 @@ layout:
 
 ## 使用步骤
 
-1、登录
+1、登录（[点击访问官网](https://jamvpn.com/#/login?redirect=)）
 
 2、下载客户端
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>安卓推荐客户端</td><td><strong>V2rayNG</strong></td><td><a href="haotouse/v2rayng.md">使用教程</a></td></tr><tr><td>苹果推荐客户端</td><td><strong>Shadowrocket</strong></td><td><a href="haotouse/shadowrocket.md">使用教程</a></td></tr><tr><td>Windows推荐客户端</td><td><strong>V2rayN</strong></td><td><a href="haotouse/v2rayn.md">使用教程</a></td></tr><tr><td>Mac推荐客户端</td><td><strong>ClashX.Meta</strong></td><td><a href="haotouse/clashx.md">使用教程</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-type="rating" data-max="5"></th><th data-hidden data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td>安卓推荐客户端</td><td><strong>V2rayNG</strong></td><td><a href="haotouse/v2rayng.md">使用教程</a></td><td>null</td><td>null</td></tr><tr><td>苹果推荐客户端</td><td><strong>Shadowrocket</strong></td><td><a href="haotouse/shadowrocket.md">使用教程</a></td><td>5</td><td>null</td></tr><tr><td>Windows推荐客户端</td><td><strong>V2rayN</strong></td><td><a href="haotouse/v2rayn.md">使用教程</a></td><td>null</td><td>null</td></tr><tr><td>Mac推荐客户端</td><td><strong>ClashX.Meta</strong></td><td><a href="haotouse/clashx.md">使用教程</a></td><td>null</td><td>null</td></tr></tbody></table>
 
 3、获取订阅连接
 
