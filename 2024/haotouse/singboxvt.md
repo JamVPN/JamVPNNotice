@@ -24,11 +24,11 @@ icon: app-store-ios
 
 **第二步：访问官网，获取订阅**
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="" width="287"><figcaption></figcaption></figure>
 
 在首页仪表盘点击一键订阅打开订阅弹窗
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="287"><figcaption></figcaption></figure>
 
 点击【导入到Sing-Box】一键启动Sing-Box VT
 

@@ -30,21 +30,21 @@ icon: app-store-ios
 
 在首页仪表盘点击一键订阅打开订阅弹窗
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="287"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="287"><figcaption></figcaption></figure>
 
 点击【导入到Shadowrocket】一键启动Shadowrocket
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **第三步：连接使用**
 
 首次安装时需要授权
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 授权完成后即可连接
 
 **第四步：模式配置**
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

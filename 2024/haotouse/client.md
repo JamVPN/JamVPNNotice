@@ -42,8 +42,10 @@ Clash Verge Rev部分杀毒软件报毒，会上报错误日志，介意者请�
 
 2、如果你是非M系列芯片的MAC电脑
 
-2.1、Clash Verge Rev：[1.7.7版本官方下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
+2.1、Clash X：[1.118.0版本官方下载](https://github.com/githubvpn007/ClashX/releases/download/ClashX/ClashX.zip)
 
-2.2、V2rayU：[4.2.5版本官方下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-arm64.dmg)
+2.2、Clash Verge Rev：[1.7.7版本官方下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
 
-2.3、Sing-Box：[1.11.0-alpha.18版本官方下载](https://formulae.brew.sh/cask/sfm)
+2.3、V2rayU：[4.2.5版本官方下载](https://github.com/yanue/V2rayU/releases/download/v4.2.5/V2rayU-arm64.dmg)
+
+2.4、Sing-Box：[1.11.0-alpha.18版本官方下载](https://formulae.brew.sh/cask/sfm)

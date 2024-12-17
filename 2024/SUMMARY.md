@@ -24,7 +24,7 @@
 * [V2rayN教程](haotouse/v2rayn.md)
 * [Clash For Windows教程-编辑中](haotouse/clashforwindows.md)
 * [Clash Verge Rev教程-编辑中](haotouse/clashvergerev.md)
-* [Clash X教程-编辑中](haotouse/clashx.md)
+* [Clash X教程](haotouse/clashx.md)
 * [V2rayU教程-编辑中](haotouse/v2rayu.md)
 * [Sing-Box Mac教程-编辑中](haotouse/singboxmac.md)
 * [OpenClash-编辑中](haotouse/openclash-bian-ji-zhong.md)
