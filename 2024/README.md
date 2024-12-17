@@ -24,7 +24,7 @@ layout:
 
 ## 使用步骤
 
-1、登录（[点击访问官网](https://jamvpn.com/#/login?redirect=)）
+1、登录（[点击访问官网](https://jamvpn.com/#/login)）
 
 2、下载客户端
 
