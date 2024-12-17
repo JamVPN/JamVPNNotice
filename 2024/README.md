@@ -22,6 +22,20 @@ layout:
 
 # 欢迎来到果酱加速器JamVPN文档中心
 
+## 使用步骤
+
+1、登录
+
+2、下载客户端
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>安卓推荐客户端</td><td>V2rayNG</td><td><a href="haotouse/v2rayng.md">使用教程</a></td></tr><tr><td>苹果推荐客户端</td><td>Shadowrocket</td><td><a href="haotouse/shadowrocket.md">使用教程</a></td></tr><tr><td>Windows推荐客户端</td><td>V2rayN</td><td><a href="haotouse/v2rayn.md">使用教程</a></td></tr><tr><td>Mac推荐客户端</td><td><a href="haotouse/clashx.md"><strong>ClashX.Meta</strong></a></td><td></td></tr></tbody></table>
+
+3、获取订阅连接
+
+4、连接使用
+
 ## **一、用户须知**
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>流媒体解锁服务说明</strong></td><td><a href="usernotice/streaming.md">点击查看</a></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>流量计费规则</strong></td><td><a href="usernotice/traffictrules.md">点击查看</a></td><td></td><td></td><td><a href="usernotice/streaming.md">streaming.md</a></td></tr><tr><td><strong>官方信息公示（谨防假冒）</strong></td><td><a href="usernotice/officialinfonotice.md">点击查看</a></td><td></td><td></td><td></td></tr><tr><td><strong>服务条款</strong></td><td><a href="usernotice/tos.md">点击查看</a></td><td></td><td></td><td><a href="usernotice/tos.md">tos.md</a></td></tr><tr><td><strong>隐私政策</strong></td><td><a href="usernotice/privacy.md">点击查看</a></td><td></td><td></td><td></td></tr></tbody></table>
