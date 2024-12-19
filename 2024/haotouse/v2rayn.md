@@ -5,15 +5,15 @@ description: V2rayN
 
 # V2rayN教程
 
-**界面预览**
+## **注册**
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+先前往本站注册账号 [点击前往注册](https://jamvpn.com/#/register)
 
 ## **下载**
 
 本站提供官方Github下载地址、Google Play商店与本站镜像三种下载途径，不定时更新客户端版本。本站镜像已经过多个杀毒软件及安防平台扫描，安全无毒，请放心下载。
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Github官方下载</td><td><a href="https://github.com/2dust/v2rayN/releases/download/7.0.9/v2rayN-windows-64-With-Core.zip"> 7.0.9版本下载</a></td><td></td></tr><tr><td>本站镜像</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>本站镜像</td><td><a href="https://jc.guojiangjiasuqi.com/download/V2rayN/v2rayN-windows-64-With-Core.zip">高速下载</a></td><td></td></tr><tr><td>Github官方下载</td><td><a href="https://github.com/2dust/v2rayN/releases/download/7.0.9/v2rayN-windows-64-With-Core.zip"> 7.0.9版本下载</a></td><td></td></tr></tbody></table>
 
 ## **安装教程**
 

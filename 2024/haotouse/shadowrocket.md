@@ -4,6 +4,10 @@ icon: app-store-ios
 
 # Shadowrocket教程
 
+## **注册**
+
+先前往本站注册账号 [点击前往注册](https://jamvpn.com/#/register)
+
 **第一步：安装Shadowrocket**
 
 因中国区AppStore禁止上架翻墙产品。需要一个国外的苹果账号，购买Shadowrocket应用

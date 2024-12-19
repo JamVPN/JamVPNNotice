@@ -4,15 +4,15 @@ icon: android
 
 # V2rayNG教程
 
-**界面预览**
+## **注册**
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="432"><figcaption></figcaption></figure>
+先前往本站注册账号 [点击前往注册](https://jamvpn.com/#/register)
 
 ## **下载**
 
 本站提供官方Github下载地址与本站镜像，不定时更新客户端版本。本站镜像已经过多个杀毒软件及安防平台扫描，安全无毒，请放心下载。
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Github官方下载</td><td><a href="https://github.com/2dust/v2rayNG/releases/download/1.9.16/v2rayNG_1.9.16_universal.apk">点击下载</a></td><td></td></tr><tr><td>Google Play商店安装</td><td><a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">前往安装</a></td><td></td></tr><tr><td>本站镜像</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>本站镜像</td><td><a href="https://jc.guojiangjiasuqi.com/download/V2rayNG/v2rayNG_1.9.16_universal.apk">点击下载</a></td><td></td></tr><tr><td>Github官方下载</td><td><a href="https://github.com/2dust/v2rayNG/releases/download/1.9.16/v2rayNG_1.9.16_universal.apk">点击下载</a></td><td></td></tr><tr><td>Google Play商店安装</td><td><a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">前往安装</a></td><td></td></tr></tbody></table>
 
 ## **使用教程**
 

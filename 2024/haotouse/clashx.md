@@ -5,9 +5,13 @@ description: Clash X For MAC
 
 # Clash X教程
 
+## **注册**
+
+先前往本站注册账号 [点击前往注册](https://jamvpn.com/#/register)
+
 怎样在Mac OSX操作系统下使用ClashX
 
-1、下载ClashX并安装 [Mac版](https://github.com/githubvpn007/ClashX/releases/download/ClashX/ClashX.zip)
+1、下载ClashX并安装 [下载本站镜像](https://jc.guojiangjiasuqi.com/download/ClashX.Meta/ClashX.zip) [官方下载Mac版](https://github.com/githubvpn007/ClashX/releases/download/ClashX/ClashX.zip)&#x20;
 
 2、登陆我们的官网用户中心，在“仪表盘”中点击“一键订阅”，再点击“导入到ClashX Meta”，以获取Clash订阅链接。
 
